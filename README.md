@@ -1,6 +1,6 @@
 <h1>A place where magic happens... 🧙🏻</h1>
 
-### Hi there,I'm Dmytro 👋🏻
+### Hi there, I'm Dmytro 👋🏻
 Welcome to my GitHub profile. Feel free to explore my projects and connect with me. If you have any questions or just want to chat about coding, don't hesitate to reach out. Happy coding!
 
 - 🔭 I’m currently working on **crafting digital experiences and coding my way through exciting projects.**
