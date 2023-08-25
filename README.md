@@ -1,5 +1,7 @@
 <h1>A place where magic happens... 🧙🏻</h1>
 
+<img src="https://www.codewars.com/users/DmytroZhdanov/badges/small" alt="Codewars Profile Badge"/>
+
 ### Hi there, I'm Dmytro 👋🏻
 Welcome to my GitHub profile. Feel free to explore my projects and connect with me. If you have any questions or just want to chat about coding, don't hesitate to reach out. Happy coding!
 
