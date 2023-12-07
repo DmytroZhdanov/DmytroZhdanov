@@ -6,7 +6,7 @@
 Welcome to my GitHub profile. Feel free to explore my projects and connect with me. If you have any questions or just want to chat about coding, don't hesitate to reach out. Happy coding!
 
 - 🔭 I’m currently working on **crafting digital experiences and coding my way through exciting projects.**
-- 🌱 I’m currently learning **TypeScript**
+<!-- - 🌱 I’m currently learning **TypeScript** -->
 - 👯 I’m open to **new collaborations and projects, and I'm ready for challenges.**
 - 🤔 I’m looking for help with **exploring new coding horizons, collaborating on innovative projects, and sharing insights on the latest tech trends.**
 - 💬 Ask me about **my journey from the high seas as a ship officer to the world of web development! I'm also happy to chat about HTML, CSS, JavaScript, React, React Native and anything related to creating exciting user experiences.**
@@ -19,6 +19,7 @@ Welcome to my GitHub profile. Feel free to explore my projects and connect with 
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
